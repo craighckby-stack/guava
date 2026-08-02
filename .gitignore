@@ -1,0 +1,139 @@
+# ==============================================================================
+# DALEK CAAN SUPREME CODE EVOLUTION SYSTEM - MASTER GITIGNORE
+# Optimized for Next.js, TypeScript, Autonomous Agents, and Self-Refactoring Kernels
+# ==============================================================================
+
+# ------------------------------------------------------------------------------
+# 1. SYSTEM & OS ARTIFACTS
+# ------------------------------------------------------------------------------
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ------------------------------------------------------------------------------
+# 2. NODE & PACKAGE MANAGERS (Dependencies & Lockfile Caches)
+# ------------------------------------------------------------------------------
+node_modules/
+/node_modules
+/.pnp
+.pnp.*
+
+# Yarn integrity and cache
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# ------------------------------------------------------------------------------
+# 3. NEXT.JS, REACT & BUILD OUTPUTS
+# ------------------------------------------------------------------------------
+/.next/
+/out/
+/build/
+/dist/
+/target/
+/bin/
+*.tsbuildinfo
+next-env.d.ts
+
+# ------------------------------------------------------------------------------
+# 4. SECURITY, CREDENTIALS & ENVIRONMENT VARIABLES (CRITICAL LEAK PREVENTION)
+# ------------------------------------------------------------------------------
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env*.local
+*.pem
+*.key
+*.pub
+*.cert
+*.pfx
+*.p12
+secrets.json
+credentials.json
+.vercel
+
+# ------------------------------------------------------------------------------
+# 5. AUTONOMOUS AGENT WORKSPACES & SANDBOXES (Siphoned from Sovereign-Kernel)
+# ------------------------------------------------------------------------------
+# Avoid file watcher exhaustion and recursive git tracking during self-refactoring
+repo-clone/
+/repo-clone/
+workspace/
+/workspace/
+sandbox/
+/sandbox/
+temp-src/
+clones/
+local-*/
+
+# ------------------------------------------------------------------------------
+# 6. VECTOR DATABASES & AI AGENT MEMORY (Siphoned from Unitary-Core)
+# ------------------------------------------------------------------------------
+.chroma/
+chroma.db
+faiss_index/
+vector_store/
+*.index
+*.db
+*.sqlite
+
+# ------------------------------------------------------------------------------
+# 7. LLM CACHES, CONFIGURATIONS & RUNTIME LOGS
+# ------------------------------------------------------------------------------
+.cache/
+.langchain/
+.llamaindex/
+.claude/
+.z-ai-config/
+.anthropic/
+.openai/
+
+# Runtime and evolution logs
+*.log
+dev.log
+dev.out.log
+server.log
+agent.log
+refactor.log
+evolution.log
+
+# Dynamic agent skills and generated code
+/skills/
+/prompts/drafts/
+prompt/
+test/
+
+# ------------------------------------------------------------------------------
+# 8. TESTING & COVERAGE
+# ------------------------------------------------------------------------------
+/coverage/
+.nyc_output/
+.cypress/
+
+# ------------------------------------------------------------------------------
+# 9. IDE & EDITORS
+# ------------------------------------------------------------------------------
+.vscode/
+!.vscode/extensions.json
+!.vscode/launch.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
