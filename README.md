@@ -1,4 +1,6 @@
-# 🚀 DARLEK CAAN — Autonomous Code Evolution & AI Command Center
+just a poc.
+
+take a full reposatory "guava" instead of adding to my system to enhance in essence iv used dalrek caan to add itself to the repo guava and then pruning redundent data that does not enhance. 🚀 DARLEK CAAN — Autonomous Code Evolution & AI Command Center
 
 [![Live App](https://img.shields.io/badge/Live_App-Open_Application-00FF88?style=for-the-badge&logo=googlecloud)](https://ais-pre-amubz4v3czr3772fnvrcru-483535245139.asia-southeast1.run.app)
 [![Repository](https://img.shields.io/badge/Repository-craighckby--stack%2FDarlek--Caan--vs--Jesus--Chess-blue?style=for-the-badge&logo=github)](https://github.com/craighckby-stack/Darlek-Caan-vs-Jesus-Chess)
